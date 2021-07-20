@@ -1,0 +1,7 @@
+En primera ejecución según la clase main, se añaden los usuarios 
+a P501user1 y P501user2.
+Después, añadimos un usuario determinado a P501user1 y con 
+el uso de hql buscamos este usuario desde P501user2.
+ Como el resultado desde P501user2 no se puede ver el usuario que
+  fue añadido a P501user1(He añadido un loop para que se vuelen los 
+  usuarios que se ven desde P501user1 ).
